@@ -3,7 +3,7 @@ layout: post
 title:  "Finally figured out the blogging setup with Jekyll"
 ---
 
-# Ahhhhh
+
 I finally figured out the Jekyll blogging situation with Github! This way I can manually make a static blog but it's formatted and in theory the same way as a regular blog works. I also figured out I should play around with a few things to get an idea of how they work! Including the following: 
 
 I kept seeing ads for this Base44 thing, and tried out a prompt. I figured that I should get with it and learn rather than resist hahaa~ 
