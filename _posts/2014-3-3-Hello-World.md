@@ -1,8 +1,3 @@
----
-layout: post
-title: second post
-
-___
 
 layout: post
 title: my test
