@@ -8,7 +8,7 @@ I finally figured out the Jekyll blogging situation with Github! This way I can 
 
 I kept seeing ads for this Base44 thing, and tried out a prompt. I figured that I should get with it and learn rather than resist hahaa~ 
 
-https://funky-card-vault-core.base44.app 
+[https://funky-card-vault-core.base44.app](https://funky-card-vault.core.base44.app)
 
 Now I'll have to look into the backend and figure out how that works. 
 
